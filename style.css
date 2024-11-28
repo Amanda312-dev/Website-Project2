@@ -1,0 +1,60 @@
+@keyframes animasi {
+    100% {
+        background-position: 25% 50%;
+    }
+}
+
+body {
+    background-image: url("sun-tornado.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    animation: animasi 5s infinite alternate ease-in;
+}
+
+.box{
+    background-color: white;
+    width: 48%;
+    height: 100%;
+    margin: auto;
+    margin-top: 150px;
+    border-radius: 30px;
+    text-align: center;
+    font-family: "Sour Gummy", sans-serif;
+}
+
+.button{
+    background-color: #959f81;
+    padding: 10px 30px 10px 30px;
+    color: white;
+    text-align: center;
+    border-radius: 100px;
+    text-decoration: none;
+}
+
+.paragraph{
+    margin-bottom: 30px;
+    text-align: justify;
+    line-height: 20px;
+}
+
+.image-box{
+    background-image: url("mountains-6754215_1280.jpg");
+    height: 150px;
+    background-size: cover;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+.text-box{
+    padding: 8px 30px 30px 30px;
+}
+
+.footer{
+    background-color: #674636;
+    height: 50px;
+    background-size: cover;
+    border-radius: 0px 0px 30px 30px;
+    color: white;
+    padding: 20px;
+}

@@ -1,0 +1,128 @@
+@keyframes animasi{
+    100%{
+        background-position: 25% 50%;
+    }
+}
+
+.parallax1{
+    background-image: url("Photo\ 9.jpg");
+    background-size: cover;
+    height: 900px;
+    animation: animasi 5s infinite alternate ease-in-out;
+    background-attachment: fixed;
+}
+    
+.parallax-title{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-family: "Sour Gummy", sans-serif;
+  width:100% ;
+  color: black;
+  font-size: 26px;
+  text-align: center;
+}
+.title2{
+    text-align: center;
+    color: black;
+    font-family: "Sour Gummy", sans-serif;
+    font-weight: bold;
+    text-size-adjust: 150%;
+    font-size: 80px;
+}
+.paragraph1{
+    font-family: "Sour Gummy", sans-serif;
+    text-align: justify;
+    margin: 25px 150px 30px 150px;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.parallax2{
+    background-image: url("Photo\ 8.jpg");
+    background-size: cover;
+    height: 700px;
+    animation: animasi 5s infinite alternate ease-in-out;
+    background-attachment: fixed;
+}
+
+.paragraph2{
+    font-family: "Sour Gummy", sans-serif;
+    text-align: justify;
+    margin: 30px 150px 30px 150px;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.parallax3{
+    background-image: url("Photo\ 1.jpg");
+    background-size: cover;
+    height: 700px;
+    animation: animasi 5s infinite alternate ease-in-out;
+    background-attachment: fixed;
+}
+
+.paragraph3{
+    font-family: "Sour Gummy", sans-serif;
+    text-align: justify;
+    margin: 30px 150px 30px 150px;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.parallax4{
+    background-image: url("Photo\ 6.jpg");
+    background-size: cover;
+    height: 700px;
+    animation: animasi 5s infinite alternate ease-in-out;
+    background-attachment: fixed;
+}
+
+.paragraph4{
+    font-family: "Sour Gummy", sans-serif;
+    text-align: justify;
+    margin: 30px 150px 30px 150px;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.parallax5{
+    background-image: url("Photo\ 10.jpg");
+    background-size: cover;
+    height: 700px;
+    animation: animasi 5s infinite alternate ease-in-out;
+    background-attachment: fixed;
+}
+
+.paragraph5{
+    font-family: "Sour Gummy", sans-serif;
+    text-align: justify;
+    margin: 30px 150px 30px 150px;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.parallax6{
+    background-image: url("Photo\ 11.jpg");
+    background-size: cover;
+    height: 700px;
+    animation: animasi 5s infinite alternate ease-in-out;
+    background-attachment: fixed;
+}
+
+.paragraph6{
+    font-family: "Sour Gummy", sans-serif;
+    text-align: justify;
+    margin: 30px 150px 30px 150px;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.parallax7{
+  background-image: url("Photo\ 3.jpg");
+  background-size: cover;
+  height: 700px;
+  animation: animasi 5s infinite alternate ease-in-out;
+  background-attachment: fixed;
+}
